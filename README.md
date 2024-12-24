@@ -1,5 +1,4 @@
-# Airlines-Data-Analysis
-Airlines Analysis using Python and SQL to derive valuable insights into flight performance, customer behavior, and operational efficiency
+# [Airlines Data Analysis ]
 
 # Key features:
 * Data Extraction and Cleaning: Using SQL to query and clean the dataset to prepare it for analysis.
